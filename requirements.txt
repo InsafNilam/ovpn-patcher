@@ -1,0 +1,3 @@
+# requirements.txt
+# No external dependencies, all modules are from Python standard library
+python >= 3.8
