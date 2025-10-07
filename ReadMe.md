@@ -17,7 +17,7 @@ A simple Python utility to automate VPN configuration tasks such as extracting `
 
 - **Python 3.8+**
 - Internet access (for hostname resolution)
-- FastVPN (ZIP archive)[https://vpn.ncapi.io/groupedServerList.zip] (or similar `.ovpn` bundle)
+- FastVPN [ZIP archive](https://vpn.ncapi.io/groupedServerList.zip) (or similar `.ovpn` bundle)
 
 ---
 
