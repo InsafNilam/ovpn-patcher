@@ -28,7 +28,7 @@ A simple Python utility to automate VPN configuration tasks such as extracting `
    ```bash
    git clone https://github.com/InsafNilam/ovpn-patcher.git
    cd ovpn-patcher
-````
+   ````
 
 2. **Create a virtual environment**
 
